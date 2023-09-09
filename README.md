@@ -15,7 +15,7 @@ pip install python-csv
 pip install numpy
 pip install pillow 
 pip install pandas
-pip install times
+pip install times>
 
 
 
