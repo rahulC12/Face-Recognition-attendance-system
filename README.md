@@ -32,6 +32,10 @@ pip install times
 
 ![56](https://github.com/rahulC12/Face-Recognition-attendance-system/assets/106445593/028e5eb1-5fbb-4bc7-aea8-52561902ef1d)
 
+##Get whole access of project->
+https://drive.google.com/drive/folders/1g1evYdIywaS4gZXIjpPZtqLckx2CkolY?usp=sharing
+
+
 
 
 
