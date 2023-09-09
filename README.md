@@ -8,13 +8,21 @@ Install all libraries given below
 <br>
 
 pip install tk-tools
+<br>
 pip install opencv-contrib-python
+<br>
 pip install datetime
+<br>
 pip install pytest-shutil
+<br>
 pip install python-csv
+<br>
 pip install numpy
+<br>
 pip install pillow 
+<br>
 pip install pandas
+<br>
 pip install times
 
 
