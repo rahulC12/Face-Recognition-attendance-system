@@ -26,7 +26,10 @@ pip install pandas
 pip install times
 
 #OUTPUT
+![3](https://github.com/rahulC12/Face-Recognition-attendance-system/assets/106445593/f11e5f09-d814-4b1e-b0c7-265e0219b9d6)
+
 ![AT](https://github.com/rahulC12/Face-Recognition-attendance-system/assets/106445593/df927229-7e4c-4324-81c7-8f2f0e60c1cf)
+
 
 
 
