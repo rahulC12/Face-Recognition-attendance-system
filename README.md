@@ -6,7 +6,7 @@ The Face Recognition Attendance System automates attendance with facial recognit
 <br>
 Install all libraries given below
 <br>
-<br
+
 pip install tk-tools
 pip install opencv-contrib-python
 pip install datetime
@@ -15,7 +15,7 @@ pip install python-csv
 pip install numpy
 pip install pillow 
 pip install pandas
-pip install times>
+pip install times
 
 
 
